@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Chat } from './chat';
 
 import { getFirebaseConfig } from 'src/environments/environment';
 
