@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "michat-1b726": {
+      "hosting": {
+        "chatModule": [
+          "michat-1b726"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "michat-1b726"
+  }
+}
